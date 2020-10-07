@@ -1,0 +1,3 @@
+16-bit addresses define address space from 0 to 2^16-1 [0, 64K-1], each page is 8KB=2^13, 
+therefore, the number of pages for a single-linear page table is 2^16/2^13=2^3=8 pages
+Answer: 8.
